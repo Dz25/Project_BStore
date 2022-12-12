@@ -1,6 +1,6 @@
 # Project_BStore. 
 
-Hi I'm Duy!. This is my first MERN stack project. This is a project about an online bookstore.I have created it with React in frontend, Node and Express for backend and MongoDB for storing data.
+Hi I'm Duy!. This is my first MERN stack project. This is a project about an online bookstore. I have created it with React in frontend, Node and Express for backend and MongoDB for storing data.
 
 Features:
 - Register or login as an user or admin
